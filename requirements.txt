@@ -1,0 +1,6 @@
+Flask
+redis
+faiss-cpu
+sentence-transformers
+tensorflow
+waitress
